@@ -5,7 +5,7 @@
 ### the initial set up you won't need to come back to this file often.
 
 ###########################################################
-url: "http://imvubot.com/"
+url: "https://imvubot.com/blog"
 baseurl: "/blog"
 
 ############################
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.imvubot.com"
+url-pretty: "www.imvubot.com/blog"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
