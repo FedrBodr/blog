@@ -24,10 +24,8 @@ author: Dmitry Fedorenko FedrBodr
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Download desktop version: "https://imvubot.com/#download"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -53,16 +51,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "fedrbodr@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: imvubot.official
+  #github: daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/fedrbodr
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: fedrbodr
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
