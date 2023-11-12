@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Surfer, software developer, startuper 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dmitry Fedorenko. I have the following qualities:
 
 - I rock a great mustache
-- I'm extremely loyal to my family
+- I surf
+- I develop software in fintech sector on java/kotlin more then 15 years
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble with free time), so why don't you just watch [my LinkedIn profile](https://www.linkedin.com/in/dmitry-fedorenko/) and it will answer **all professional** your questions)
